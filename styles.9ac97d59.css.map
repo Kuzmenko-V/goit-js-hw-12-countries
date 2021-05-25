@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,eACE,YAAa,CACb,gBACF,CAEA,mBACE,WAAY,CACZ,gBACF","file":"styles.9ac97d59.css","sourceRoot":"../src","sourcesContent":[".rezult-search {\n  display: flex;\n  max-width: 1200px;\n}\n\n.rezult-search img {\n  width: 400px;\n  margin-left: 30px;\n}\n"]}
